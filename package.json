@@ -1,0 +1,22 @@
+{
+  "name": "typescript-maps",
+  "version": "1.0.0",
+  "description": "A project to learn more about typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "typescript-maps"
+  },
+  "author": "Shawn Kost",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  },
+  "dependencies": {
+    "@types/faker": "^5.5.7",
+    "faker": "^5.5.3"
+  }
+}
